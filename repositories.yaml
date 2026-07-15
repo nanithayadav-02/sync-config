@@ -1,3 +1,5 @@
 repositories:
   - lnf-sentinel-service
   - lnf-company-service
+  - jenkins-shared-library
+
